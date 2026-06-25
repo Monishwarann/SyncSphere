@@ -2,7 +2,7 @@
 
 A high-performance, production-ready **Full-Stack (MERN + Socket.IO) Discussion Platform** built to showcase modern software engineering, responsive glassmorphic UI systems, and robust real-time communications.
 
-Developed by **[Harshal Navale](https://github.com/HarshalNavale45)** as a portfolio-grade MERN showcase project.
+Developed by **[Monishwaran K](https://github.com/Monishwarann)** as a portfolio-grade MERN showcase project.
 
 ---
 
@@ -213,7 +213,7 @@ To visually verify real-time capabilities for your portfolio:
 
 ## 👤 Developer Profile
 
-* **Name**: Harshal Navale  
+* **Name**: Monishwaran K  
 * **GitHub Profile**: [@HarshalNavale45](https://github.com/HarshalNavale45)  
 * **Project Repository**: [Full-stack-Development-Community-Discussion-Forum-with-Real-Time-Chat](https://github.com/HarshalNavale45/Full-stack-Development-Community-Discussion-Forum-with-Real-Time-Chat)  
 
