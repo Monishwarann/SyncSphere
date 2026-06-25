@@ -214,7 +214,6 @@ To visually verify real-time capabilities for your portfolio:
 ## 👤 Developer Profile
 
 * **Name**: Monishwaran K  
-* **GitHub Profile**: [@HarshalNavale45](https://github.com/HarshalNavale45)  
-* **Project Repository**: [Full-stack-Development-Community-Discussion-Forum-with-Real-Time-Chat](https://github.com/HarshalNavale45/Full-stack-Development-Community-Discussion-Forum-with-Real-Time-Chat)  
+* **GitHub Profile**: [@HarshalNavale45](https://github.com/Monishwarann)  
 
 Feel free to open issues or pull requests to enhance the platform!
